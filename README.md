@@ -26,8 +26,7 @@
 
 Установка и запуск проекта
 1. Клонирование репозитория
-git clone https://github.com/test_einzelwerk.git
-cd test_einzelwerk
+git clone https://github.com/Dzuba110729/test_einzelwerk.git
 2. Установка зависимостей
 - Backend (Laravel)(composer install, 
   php artisan key:generate)
